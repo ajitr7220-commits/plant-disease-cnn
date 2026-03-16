@@ -1,4 +1,5 @@
 # Plant Disease Detection using CNN
+Python | TensorFlow | Deep Learning | Image Classification
 
 ## Overview
 
@@ -12,6 +13,21 @@ The model can detect three classes:
 The model is trained using TensorFlow and Keras.
 
 ---
+
+## Dataset
+
+The dataset contains plant leaf images in three classes:
+
+- Healthy
+- Powdery
+- Rust
+
+Dataset is organized into:
+Train / Validation / Test folders.
+
+Due to size limits, the dataset is not included in this repository.
+
+Dataset source: Kaggle Plant Disease Dataset
 
 ## Project Structure
 
@@ -37,21 +53,7 @@ plant-disease-cnn
 
 ---
 
-## Dataset
 
-The dataset contains images of plant leaves in three categories:
-
-* Healthy
-* Powdery
-* Rust
-
-Images are split into:
-
-* Training set
-* Validation set
-* Test set
-
----
 
 ## Model Architecture
 
