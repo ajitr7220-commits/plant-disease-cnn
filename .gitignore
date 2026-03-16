@@ -1,0 +1,32 @@
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environment
+
+venv/
+.env/
+
+# Dataset
+
+data/
+
+# Trained models
+
+models/*.h5
+models/*.keras
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
